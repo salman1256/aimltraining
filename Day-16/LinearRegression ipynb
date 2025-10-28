@@ -1167,6 +1167,65 @@
   {
    "cell_type": "code",
    "execution_count": null,
+   "id": "5b65fd89-98b4-495d-8625-1b02dbe46c4c",
+   "metadata": {},
+   "outputs": [],
+   "source": []
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "1b202e07-08f1-4600-b0c1-8886245c5fe4",
+   "metadata": {},
+   "outputs": [],
+   "source": []
+  },
+  {
+   "cell_type": "markdown",
+   "id": "03e6aa88-05e1-4c39-8db4-11edd91d4ced",
+   "metadata": {},
+   "source": [
+    "#  Linear Regression **House Price Prediction**\n",
+    "## Downaload house_price.csv file from gitHub\n",
+    "## **Goal:** Train a Linear Regression model to predict house price from size.\n",
+    "\n"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "f2b7b803-cc45-4d5e-a730-58895c3408f0",
+   "metadata": {},
+   "outputs": [],
+   "source": []
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "4afdea01-8c95-4ca6-bc5e-5c535bddb2b1",
+   "metadata": {},
+   "outputs": [],
+   "source": []
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "a17d6291-51b7-430f-a644-7f591a919da4",
+   "metadata": {},
+   "outputs": [],
+   "source": []
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "4953894e-1e64-40f7-a92c-69316dca2e45",
+   "metadata": {},
+   "outputs": [],
+   "source": []
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
    "id": "2fd497f0-b324-4239-b776-a6024727dd44",
    "metadata": {},
    "outputs": [],
